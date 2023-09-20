@@ -1,3 +1,7 @@
+---
+layout: pages
+title: All Pages
+---
 About The Game
 ==============
 

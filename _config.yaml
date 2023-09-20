@@ -1,0 +1,8 @@
+---
+destination: www
+exclude:
+  - bin
+  - www.bak
+  - README
+  - build.sh
+  - publish.sh

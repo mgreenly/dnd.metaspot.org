@@ -1,8 +1,16 @@
 ---
+baseurl: "/"
+url: "https://dnd.metaspot.org"
 destination: www
+plugins:
+  - jekyll-feed
 exclude:
   - bin
   - www.bak
   - README
   - build.sh
   - publish.sh
+  - foo
+permalink: /post/:year/:month/:day/:title.html
+feed:
+  path: /feed.atom

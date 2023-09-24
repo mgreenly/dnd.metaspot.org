@@ -4,4 +4,7 @@ title: All Pages
 ---
 Pages
 ====
-[About The Game](/pages/about-the-game.html)
+ * [Characters](/pages/characters.html)
+ * [Legends](/pages/legends.html)
+ * [Players](/pages/players.html)
+ * [Sessions](/pages/recaps.html)

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-bin/jekyll build
+bin/jekyll build --incremental

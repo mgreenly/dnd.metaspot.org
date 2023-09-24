@@ -1,7 +1,12 @@
 body {
-  font-family: "Crimson Text", serif;
+  font-family: 'Crimson Text', serif;
   font-size: 1.25em;
   margin-left: 2em;
+}
+
+.hamburger {
+  font-family: "Montserrat", serif;
+  font-size: 0.80em;
 }
 
 .block {

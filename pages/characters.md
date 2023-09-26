@@ -7,7 +7,7 @@ Characters
 All living characters and retainers, from all players; regular, irregular and guest.
 
  1. Arlsket (human/cleric)
- 1. Carver (human/clearic)
+ 1. Carver (human/cleric)
  1. Ciecherella "Dolly" (human/bard)
  1. Crowe (elf/druid)
  1. Duhr (dwarf/fighter)

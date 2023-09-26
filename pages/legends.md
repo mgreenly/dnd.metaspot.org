@@ -26,7 +26,7 @@ All deceased characters and retainers, from all players; regular, irregular and 
  1. Sal (human/assassin)
  1. Sighild (human/fighter)
  1. Soja (bugbear)
- 1. Thamior (human/cleric)
+ 1. Thaimor (human/cleric)
  1. Theo (human/ranger)
  1. Thorn (half-elf/thief)
  1. Tim (human/magic-user)

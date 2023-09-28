@@ -1,10 +1,14 @@
 ---
 layout: pages
-title: Players
+title: The Players
 ---
+<div class="hamburger">
+  <a href="/index.html">home</a> / players
+</div>
 
 The Regulars
 ============
+
 Players that attend games reguarly.
 
  1. Alex

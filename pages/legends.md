@@ -1,9 +1,14 @@
 ---
 layout: pages
-title: Legends
+title: The Legends
 ---
-Legends
-=======
+<div class="hamburger">
+  <a href="/index.html">home</a> / legends
+</div>
+
+The Legends
+===========
+
 All deceased characters and retainers, from all players; regular, irregular and guest.
 
  1. Akordia (drow/assassin)

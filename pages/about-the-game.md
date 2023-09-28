@@ -1,8 +1,12 @@
 ---
 layout: pages
-title: All Pages
+title: About Our Game
 ---
-About The Game
+<div class="hamburger">
+  <a href="/index.html">home</a> / .
+</div>
+
+About Our Game
 ==============
 
 This is a place holder for a page that has not been written yet.

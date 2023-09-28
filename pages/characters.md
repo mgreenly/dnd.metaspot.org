@@ -1,9 +1,14 @@
 ---
 layout: pages
-title: Characters
+title: Player Characters
 ---
-Characters
-==========
+<div class="hamburger">
+  <a href="/index.html">home</a> / characters
+</div>
+
+Player Characters
+=================
+
 All living characters and retainers, from all players; regular, irregular and guest.
 
  1. Arlsket (human/cleric)

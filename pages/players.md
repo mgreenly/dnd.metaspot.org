@@ -8,7 +8,6 @@ title: The Players
 
 The Regulars
 ============
-
 Players that attend games reguarly.
 
  1. Alex
@@ -17,15 +16,20 @@ Players that attend games reguarly.
  1. Jacob
  1. Josh
  1. Keith
- 1. Pete
  1. Quinn
 
 
 The Irregulars
 ==============
-Pople who have attended some games.
+Players who have attended at least one game.
 
+ 1. Andy
+ 1. Eric
  1. Fred
+ 1. Kathy
+ 1. Leaha
  1. Oliver
+ 1. Pete
  1. Spencer
+ 1. Tom
  1. Val

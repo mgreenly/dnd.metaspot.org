@@ -1,14 +1,63 @@
 body {
-  font-family: 'Crimson Text', serif;
+  /* font-family: 'Crimson Text', serif; */
+  font-family: 'Literata', serif;
   font-size: 1.25em;
-  margin-left: 2em;
+  background-color: #FAF9F6;
+  /* margin-left: 2em; */
 }
 
 .hamburger {
-  font-family: "Montserrat", serif;
+  /* font-family: "Montserrat", serif; */
+  font-family: "Hind", serif;
   font-size: 0.80em;
 }
 
+:is(h1, h2, h3, h4, h5, h6) {
+  font-family: "Hind", serif;
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  /* font-weight: 600; */
+}
+
+h1 {
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+}
+
+h3 {
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+
 .block {
   margin-left: 2em;
+}
+
+.container {
+  width:100%;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  background-color: white;
+  padding: 1em;
+  max-width: 40em;
+}
+
+.mono {
+  /* font-family: "Montserrat", serif; */
+  /* font-family: "Roboto Mono", monospace; */
+  font-family: "Chivo Mono", monospace;
+  font-size: 0.80em;
 }

@@ -5,12 +5,13 @@ title: dnd.metaspot.org
 dnd.metaspot.org
 ================
 
-The online home of our weekly in-person D&D game.
+The online home of a weekly tabletop D&D game.
 
  * [Looking for Players](/pages/lfp.html)
- * [Characters](/pages/characters.html)
- * [Legends](/pages/legends.html)
- * [Players](/pages/players.html)
- * [Sessions](/pages/recaps.html)
+ * [Session Recaps](/pages/recaps.html)
  * [Posts](/pages/posts.html)
+ * [Characters](/pages/characters.html)
+ * [Players](/pages/players.html)
+ * [Legends](/pages/legends.html)
+ * [Resources](/pages/resources.html)
  * [Photos](https://photos.app.goo.gl/zTKjc644akqv84bt5)

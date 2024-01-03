@@ -9,8 +9,8 @@ exclude:
   - www.bak
   - README
   - build.sh
-  - publish.sh
-  - foo
+  - publish
+  - files/images
 permalink: /post/:year/:month/:day/:title.html
 feed:
   path: /feed.atom

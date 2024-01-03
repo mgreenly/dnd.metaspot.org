@@ -9,6 +9,8 @@ DEBIAN BULLSEYE AMD64 us-east-2 ami-0f35413f664528e13
 18.224.3.61
 
 
+convert -strip -interlace Plane -quality 100 -filter Lanczos -define filter:blue=.9891028367558475 -resize 1400x PXL_20231210_014447698.jpg PXL_20231210_014447698_1400x.jpg
+
 
 IMPORT KEYPAIR
 

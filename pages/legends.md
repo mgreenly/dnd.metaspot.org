@@ -28,10 +28,12 @@ All deceased characters and retainers, from all players; regular, irregular and 
  1. Jax (human/fighter)
  1. Krothe (half-elf/acrobat)
  1. Lefalco (half-elf/assassin)
+ 1. Maxwell Shadowfoot (human/thief) 11/18/23 to 12/02/23 (sessions 68-70)
  1. Raven (human/thief)
  1. Sal (human/assassin)
  1. Sighild (human/fighter)
  1. Soja (bugbear)
+ 1. Sora (human/ranger) died 12/16/23 session #71
  1. Thaimor (human/cleric)
  1. Theo (human/ranger)
  1. Thorn (half-elf/thief)

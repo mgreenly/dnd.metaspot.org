@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+
+require 'pp'
+
+Dir['files/images/*.jpg'].each do |src|
+  ext = File.extname(src)
+  dst = File.join('assets/images', File.basename(src)).strip
+  cmd = "convert -strip -interlace Plane -quality 100 -filter Lanczos -define filter:blue=.9891028367558475 -resize 1400x #{src.strip} #{dst}"
+  if File.exist?(dst)
+    puts "skipping #{src}"
+    next
+  end
+
+  result = system(cmd)
+  print cmd
+  print "  "
+  pp result
+end

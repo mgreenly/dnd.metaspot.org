@@ -1,8 +1,0 @@
-#!/bin/sh
-
-rm files/images/*\:*;
-bin/jekyll build --incremental
-#aws s3 sync ./files s3://dnd.metaspot.org/files --cache-control='max-age=60'
-cp files/images/*.jpg assets/images/
-cp files/images/*.png assets/images/
-rsync --delete -avzr www/ admin@metaspot.org:/var/www/dnd.metaspot.org

@@ -9,16 +9,20 @@ title: Resources
 A collection of links for D&D and other RPGs that I find useful or entertaining.
 
 
-**Links**
+## blogs
 
   * [https://grognardia.blogspot.com/](https://grognardia.blogspot.com/)
   * [https://grumpywizard.home.blog/](https://grumpywizard.home.blog/)
   * [https://harbingergames.blogspot.com/](https://harbingergames.blogspot.com/)
   * [https://monstersandmanuals.blogspot.com/](https://monstersandmanuals.blogspot.com/)
+  * [https://runkleplaysgames.com/](https://runkleplaysgames.com/)
   * [https://thealexandrian.net/](https://thealexandrian.net/)
   * [https://wanderinggamist.blogspot.com/](https://wanderinggamist.blogspot.com/)
   * [https://www.dungeonscrawl.com/](https://www.dungeonscrawl.com/)
   * [https://www.enworld.org/forums/](https://www.enworld.org/forums/)
+
+## youtube
+
   * [https://www.youtube.com/@AJPickett](https://www.youtube.com/@AJPickett)
   * [https://www.youtube.com/@AaronthePedantic](https://www.youtube.com/@AaronthePedantic)
   * [https://www.youtube.com/@AlexanderMacris](https://www.youtube.com/@AlexanderMacris)

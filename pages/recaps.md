@@ -9,6 +9,12 @@ title: Recaps
 Session Recaps
 ==============
 
+ * [<span class="mono">2023/12/30</span>](post/2023/12/30/session-recap.html) - Soggy Mummies
+ * [<span class="mono">2023/12/23</span>](post/2023/12/23/session-recap.html) - New Recruits
+ * [<span class="mono">2023/12/16</span>](post/2023/12/16/session-recap.html) - The "B" Team
+ * [<span class="mono">2023/12/09</span>](post/2023/12/09/session-recap.html) - Gorastadt's Tomb #3
+ * [<span class="mono">2023/12/02</span>](post/2023/12/02/session-recap.html) - Gorastadt's Tomb #2
+ * [<span class="mono">2023/11/18</span>](post/2023/11/18/session-recap.html) - Gorastadt's Tomb #1
  * [<span class="mono">2023/11/11</span>](post/2023/11/11/session-recap.html) - Mirror Mirror
  * [<span class="mono">2023/11/04</span>](post/2023/11/04/session-recap.html) - Never Tell Me The Odds
  * [<span class="mono">2023/10/28</span>](post/2023/10/28/session-recap.html) - Something Fishy

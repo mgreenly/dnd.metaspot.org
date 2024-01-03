@@ -1,0 +1,17 @@
+#!/bin/sh
+
+find files/ -name '*:*' -exec rm {} \;
+find assets/ -name '*:*' -exec rm {} \;
+find www/ -name '*:*' -exec rm {} \;
+
+bin/prepub
+
+bin/jekyll build --incremental
+
+#aws s3 sync ./files s3://dnd.metaspot.org/files --cache-control='max-age=60'
+
+rsync \
+  --delete \
+  -avzr www/ \
+  --exclude www/files/images \
+  admin@metaspot.org:/var/www/dnd.metaspot.org

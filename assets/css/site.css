@@ -2,14 +2,15 @@ body {
   /* font-family: 'Crimson Text', serif; */
   font-family: 'Literata', serif;
   font-size: 1.25em;
-  background-color: #FAF9F6;
+  background-color: white; /* #FAF9F6; */
   /* margin-left: 2em; */
 }
 
 .hamburger {
   /* font-family: "Montserrat", serif; */
   font-family: "Hind", serif;
-  font-size: 0.80em;
+  font-size: 80%;
+  /* font-size: 0.80em; */
 }
 
 :is(h1, h2, h3, h4, h5, h6) {
@@ -21,23 +22,35 @@ body {
 }
 
 h1 {
-  font-size: 2em;
+  /* font-size: 2em; */
+  font-size: 200%;
   margin-top: 0.67em;
   margin-bottom: 0.67em;
 }
 
 h2 {
-  font-size: 1.5em;
+  /* font-size: 1.5em; */
+  font-size: 150%;
   margin-top: 0.83em;
   margin-bottom: 0.83em;
 }
 
 h3 {
-  font-size: 1.17em;
+  /* font-size: 1.17em; */
+  font-size: 125%;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
+sup a:link    { text-decoration:none }
+sup a:visited { text-decoration:none }
+sup a:hover   { text-decoration:none }
+sup a:active  { text-decoration:none }
+
+sup {
+  font-family: "Chivo Mono", monospace;
+  font-size: 0.50em;
+}
 
 .block {
   margin-left: 2em;
@@ -52,8 +65,10 @@ h3 {
 .content {
   background-color: white;
   padding: 1em;
-  max-width: 40em;
+  /* min-width; 40em; */
+  max-width: 90%;
 }
+
 
 .mono {
   /* font-family: "Montserrat", serif; */
@@ -61,3 +76,50 @@ h3 {
   font-family: "Chivo Mono", monospace;
   font-size: 0.80em;
 }
+
+.statnormal {
+  font-family: "Chivo Mono", monospace;
+  font-size: 0.70em;
+}
+
+.statbold {
+  font-weight: bold;
+}
+
+.statblock {
+  font-family: "Chivo Mono", monospace;
+  font-size: 0.70em;
+}
+
+ol.statblock {
+  font-family: "Chivo Mono", monospace;
+  font-size: 0.70em;
+}
+
+ol.statblock li {
+  margin-bottom: 1em;
+}
+
+ol.statblock li ul li {
+  margin-bottom: 0.25em;
+}
+
+
+@media (device-width <= 1000px) {
+  body {
+    font-size: 1.0em;
+  }
+  .content {
+    width: 100%;
+  }
+}
+
+@media (device-width > 1000px) { 
+  body {
+    font-size: 1.25em;
+  }
+  .content {
+    width: 900px;
+  }
+}
+

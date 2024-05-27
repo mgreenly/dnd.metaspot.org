@@ -1,0 +1,8 @@
+---
+sidebar: "characters"
+title: "Dar"
+---
+
+  * **Player**: Alex
+  * **Class**: Hunter
+

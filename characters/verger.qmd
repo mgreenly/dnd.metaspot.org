@@ -1,0 +1,8 @@
+---
+sidebar: "characters"
+title: "Verger"
+---
+
+  * **Player**: Joe
+  * **Class**: Hunter
+

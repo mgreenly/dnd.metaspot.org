@@ -1,0 +1,30 @@
+---
+title: "2024-05-04: The Miniatures"
+description: "Most of the group paints miniatures and Alex rolls up a new character."
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+----
+### Session #5
+
+Five players for D&D tonight.
+
+  * [Alex](/characters/dar.qmd), [Ashley](/characters/ahndahn.qmd), [Eric](/characters/sabin.qmd), [Keith](/characters/foster.qmd) and [Quinn](/characters/andy.qmd)
+
+### Recap
+
+Everyone got their characters painted.
+
+I painted Geran for Pete so blame me not him for that paint job.
+
+Alex got his new character mostly sorted out.  He'll be playing a Hunter.  We'll finish up the character sheet next week.
+
+### Images
+
+![](/assets/images/20240504/PXL_20240504_235327605.jpg)
+
+![](/assets/images/20240504/PXL_20240505_005601980.jpg)

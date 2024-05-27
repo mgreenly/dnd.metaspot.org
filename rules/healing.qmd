@@ -1,0 +1,30 @@
+---
+sidebar: "rules"
+title: "Healing"
+---
+
+### Using Reserve Points
+You can convert 1 Reserve Point to 1 Hit Point per minute while resting. If you have negative Hit Points you must be stabilized before you can use reserve points.
+
+### Natural Healing
+You first recover Hit Points until they are fully restored then you recover Reserve Points.  With a night’s rest you recover points equal to your character’s level + constitution modifier and each temporarily reduced ability score regains 1 point.  A full day’s bedrest doubles the rate of recovery.
+
+### Heal: First Aid
+As a Standard Action you can perform a DC15 Heal check to render first aid to a character who is bleeding out.  Rendering first aid will Stabilize the character and prevent any further hit point loss.
+
+### Heal: Treat Wounds
+As a Standard Action You can perform a DC15 Heal check to restore a number of points equal to the healer’s Rank in Heal.
+
+### Heal: Temporary Treatment
+As a Standard Action you can perform a DC 20 Heal Challenge to restore Hit Points instead of Reserve Points. 
+
+### Heal: Long Term Care
+After attending up to 6 patients for a full day you can make one DC 15 Long Term Care check per patient.  A successful check doubles the rate of Natural Healing and Ability Score recovery for that patient.
+
+### Notes
+Characters may only benefit from one of Treat Wounds, Temporary Treatment or  Long Term Care check per day, for example if a character has already benefited from a Treat Wounds check they can not then benefit from Long Term Care the same day.
+
+Depending on circumstances the Healing DC can be modified by as much as +/- 6 pts for favorable or unfavorable conditions.  A commonly available circumstance bonus to benefit healing is the use of a Healer’s Kit(p.169) which provides a +2 circumstance bonus to both the check and the benefit of the action. 
+
+Magical healing, especially instant healing through spells will not exist in the game but uncommon salves, ointments and potions may exist that either increase the number of points healed or decrease the time required for natural healing.  Plan accordingly! 
+

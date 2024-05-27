@@ -1,0 +1,34 @@
+---
+title: "2024-04-27: The Trade"
+description: "The group negotiates to spare Andy's life."
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+-----
+### Session #4
+
+Four players for D&D tonight.
+
+  * [Ashley](/characters/ahndahn.qmd), [Eric](/characters/sabin.qmd), [Keith](/characters/foster.qmd) and [Quinn](/characters/andy.qmd)
+
+# Recap
+
+It was Good fun! Most importantly Andy survived to fight another day.
+
+We picked up right where we left off last week. Andy was incapacitated and the Shoken were threatening to cut her neck.  With some difficulty the Shoken managed to communicate that they’d trade Andy's life for the bodies of their fallen comrades and specifically the satchel that they carried.
+
+Sabin decided to keep some silver coins from the satchel before he handed it over which led to the Shoken later coming to the village with a larger force to reclaim the missing coins.  Again the party negotiated a trade but this time Sabin got an heirloom dagger with an interesting black steel blade from the Shoken leader in trade for the silver coins.
+
+Amanda and Joe let us know they’d be unable to commit to the game.
+
+We reached out to Alex Gustafson and it seems likely he'll be joining us, bringing us back to 6 players.  
+
+There is potentially one open seat.  If anyone is interested message me directly.
+
+### Images
+
+![](/assets/images/20240427/PXL_20240428_130312247.jpg)

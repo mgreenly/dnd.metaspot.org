@@ -1,0 +1,35 @@
+---
+title: "2024-05-18: Exploring the City"
+description: "The group starts to familiarize themselves with the city."
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+------
+### Session #7
+
+Six players plus one guest for D&D tonight.
+
+  * [Ashley](/characters/ahndahn.qmd), [Eric](/characters/sabin.qmd), [Keith](/characters/foster.qmd), [Michael](/characters/asmodean.qmd), [Spencer](/characters/garen.qmd) and [Quinn](/characters/andy.qmd)
+
+### Recap
+
+Each of the characters started to explore the city of Port Haven.
+
+Andy and Foster took labor jobs on the docks and at the brewery respectively.  
+
+Sabin sold the expensive textiles they looted from their wrecked ship to an upscale haberdashery.  While there he was warned by the proprietor to keep the fact he's an outsider a secret. 
+
+Geran swindled a couple of local jewelers by swapping fake colored glass gems for real ones while pretending to shop for an apology gift for his upset wife.  He made off with a significant haul.
+
+Separately both Asmodean and Ahndahn tried to send courier messages home only to learn the no one's ever heard of the places they come from.
+
+Ahndahn visited the temple district and discovered an ancient sect of her religion thought to be extinct.  The priests had no knowledge of the temples and cities that Ahndahn knew.  A bit frustrated Ahndahn went to the library to see what maps existed and discovered that Port Haven lies at the center of a large archipelago known as the Serpent Isles and that a dozen other large archipelagos exist but are separated by huge distances and are only partially mapped.  She also discovered that no maps exist for any places familiar to her.
+
+### Images
+
+![](/assets/images/20240518/428349479_440013278771588_5542612259936502670_n.jpg)
+

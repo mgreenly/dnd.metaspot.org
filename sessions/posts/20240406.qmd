@@ -1,0 +1,56 @@
+---
+title: "2024-04-06: The Beach"
+description: "The party finds themselves shipwrecked on a beach in a strange land."
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+-----
+### Session #1
+
+Seven players for D&D tonight.
+
+  * [Amanda](/characters/velvet.qmd), [Ashley](/characters/ahndahn.qmd), [Eric](/characters/sabin.qmd), [Joe](/characters/verger.qmd), [Keith](/characters/foster.qmd), [Pete](/characters/garen.qmd) and [Quinn](/characters/andy.qmd)
+
+### Recap
+
+Individually the members of the party had boarded a small coastal ship in the north kingdom of Mercia intending to travel south to the free city of Gaeta on what they expected to be an approximately five day voyage.
+
+Three days after their departure the winds picked up and the skies darkened with rolling green and blue thunder clouds and torrential rains before the ship could seek shelter. They were driven out to sea and thrashed for days with the ship suffering significant damage including a broken mast and rudder. On the fourth night of the storm the ship was smashed on rocks and started taking on water rapidly. The remaining crew and passengers who hadn’t been washed overboard made their way topside to evacuate into the ship’s boat and realized they could see a shoreline in the moments of lightning flashes.
+
+The seven characters Ahndan, Andy, Foster, Geran, Sabin, Velvet and Verger were the only ones to make it to shore.
+
+In the morning they woke to find a beach with very ancient collapsed ruins. What appeared to be a pier or elevated walkway collapsed into the sand that seemed to lead to the entrance of a temple mostly buried under a collapsed cliff side. All made from limestone so weathered it must clearly be thousands of years old.
+
+In addition they could see the beach littered with barrels and debris from the ship.
+
+When they moved forward to investigate the first barrel several tiny hatchling Beach Claws burst up from under the sands where they were lurking and attacked the party. They posed no real threat and were easily dispatched. They found the barrel to be packed with arrows.
+
+When they moved forward to investigate two more barrels, four adolescent Beach Claws burst up out of the sand. These were a bit tougher but they also posed no real threat.
+
+Prior to advancing to the third group of barrels they decided to climb a column and carefully look for further traps. They spotted the breathing tubes of what must clearly be very large Beach Claws under the sand near the barrels. They took up better positions and Andy and Foster advanced followed by Velvet and Sabin.
+
+Two Beach Claws burst up through the sand and attacked. Andy and Foster inflicted some heavy first blows and Velvet took the first down like a whirling dervish with her Khukri but not before taking a hard hit from the creature. The second met a similar fate, hard hits from the great swords of Andy and Foster followed by some skillfully placed blows from Sabind.
+
+While the fight was taking place Verger spotted a ship that had put a launch in the water and was making its way ashore with 3 people. They also see a group approaching from the north along the shore on horseback.
+
+The riders make contact first. Geran moves up with Andy and Velvet as protection and attempts to engage the rider in dialog only to realize they didn’t speak a common language.
+
+Still after a few minutes it became clear the riders wanted the party to come with them and they did. The riders brought them back to their village.
+
+### Images
+
+![](/assets/images/20240406/PXL_20240407_004549238.jpg){width=500}
+
+![](/assets/images/20240406/beach-claw.jpg){width=500}
+
+![](/assets/images/20240406/PXL_20240407_021948892.jpg){width=500}
+
+![](/assets/images/20240406/PXL_20240407_022036228.jpg){width=500}
+
+![](/assets/images/20240406/PXL_20240407_022058300.jpg){width=500}
+
+![](/assets/images/20240406/PXL_20240407_040157009.jpg){width=500}

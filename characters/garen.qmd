@@ -1,0 +1,11 @@
+---
+sidebar: "characters"
+title: "Garen"
+---
+
+  * **Player**: Pete
+  * **Class**: Thief
+
+
+![](/assets/images/characters/geran-20240407.png){width=300}
+

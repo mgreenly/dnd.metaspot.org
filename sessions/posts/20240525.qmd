@@ -1,0 +1,60 @@
+---
+title: "2024-05-25: Looking for Cutter"
+description: "The party gets a response from their 'looking for cutter' posting."
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+-----
+### Session #8
+
+Five players for D&D tonight.
+
+  * [Alex](/characters/dar.qmd), [Eric](/characters/sabin.qmd), [Keith](/characters/foster.qmd), [Michael](/characters/asmodean.qmd) and [Quinn](/characters/andy.qmd)
+
+### Recap
+
+With Ashley out, Ahndahn spent her time in the academy library.  She’s become captivated with trying to puzzle out where in the world they are.
+
+With Pete out, Geran spent his time building connections across the city with a newly developed disguise and alias.
+
+The prior week Sabin posted on a message board that he was looking for Cutter, the leader of the group that attacked them on the ship, and who they know to be dead, intending to lure out his associates who are hunting for them.   They got a response from a woman named Vera who indicated she could be contacted at the Black Gull tavern on the edge of Scurvy Town.
+
+The group decides to investigate Vera and makes their way to the Black Gull.  Andy and Dar enter to inquire about her while the rest wait outside.  After talking to the barkeep and realizing that they'll have to wait, Andy relays that information to the rest of the group outside. When she’s returning to the tavern she sees a young man being accosted by a trio of thugs in the adjacent alley.
+
+Andy decides to intervene which draws in the rest of the group.  Andy is immediately confronted by a brute of a man swinging a broken ship's oar as a weapon.  Behind him is the leader of the gang wielding a nasty falchion and further back is a woman wielding daggers.
+
+Initially the brute with the oar is able to hold off Andy’s advance and the leader with the falchion slices open Sal, the man being accosted, but the encounter quickly tips in favor of the player’s when Sabin vaults up and over Andy, taking a position behind the brute to oppose their leader and Foster reinforces Andy’s position while Asmodean and Dar circle around the building to approach their opponents from behind.
+
+The fight ends with the thugs and Sal incapacitated and severely wounded.  Sabin searches the bodies but does not take their meager coin purses.  Instead he slips a note inside the leaders.
+
+Dar locates an extremely ornate mother of pearl handled dagger with gold inlay, intricate carvings and a silvered blade on Sal.  This may have been what thugs were looking for.
+
+The group departs the scene in the alley and returns to waiting for Vera.  Friends of the fallen, both Sal and the thugs cart off the wounded for treatment.
+
+Vera eventually arrives at the Black Gull.  The group learns she responded to Sabin’s posting because she’s Cutter’s fiancé.  She’d been told that Cutter had died but when she saw the post she thought maybe his brother’s had him mixed up in some kind of scam and he was just holding up somewhere after a caper.
+
+The group plays up to her suspicions and suggests that they can unravel the story if they get in contact with Cutter’s brothers.  It turns out Cutter was the youngest of seven.  Vera lets them know they can likely locate some of the brothers at the Bloodsalt.  A tavern in the most dangerous part of Scurvy Town.
+
+The group decides to recuperate and do some reconnaissance on the Bloodsalt instead of heading there directly.
+
+Later that night.  The party members sharing a room with Dar are woken up by him thrashing around his bed and making noise during a bad dream.  Andy, annoyed, throws a heavy coil of rope at him waking him.
+
+When Dar is awoken he is clutching the ornate dagger and vividly recalls a nightmarish dream where he’s walking with a cult like priests in what is maybe a funeral procession through underground catacombs.  Just as he enters a lavishly treasured tomb with a curious mummified body in it he’s hit by a coil of rope.
+
+### Images
+
+![](/assets/images/20240525/428703508_444726621633587_4437882915764428227_n.jpg)
+
+![](/assets/images/20240525/441485587_444726291633620_1652612545470320857_n.jpg)
+
+![](/assets/images/20240525/441495950_444726418300274_1704482044478857729_n.jpg)
+
+![](/assets/images/20240525/441508073_444726581633591_6870927378623064168_n.jpg)
+
+![](/assets/images/20240525/444458302_444728381633411_3247828760960506845_n.jpg)
+
+![](/assets/images/20240525/441528175_444743454965237_4968503211531514507_n.jpg)

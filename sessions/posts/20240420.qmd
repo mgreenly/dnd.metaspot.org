@@ -1,0 +1,72 @@
+---
+title: "2024-04-20: The Shoken Camp"
+description: "The group locates the Shoken Camp"
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+-----
+### Session #3
+
+Four players for D&D tonight.
+
+  * [Eric](/characters/sabin.qmd), [Keith](/characters/foster.qmd), [Pete](/characters/garen.qmd) and [Quinn](/characters/andy.qmd)
+
+# Recap
+
+The events of this session start immediately where the previous left off; the party is standing over the bodies of the five Shoken they killed on the trail east of the iron-sand pits.
+
+The group inspects the bodies. The Shoken have blue skin, black hair, short black horns and thick dog-like claws instead of nails. Black blood oozes from their wounds. They’re wearing regional attire with some crude jewelry consisting of carved wooden medallions, beaded necklaces. Some have minor tattoos and piercings.
+
+One Shoken possesses a small leather satchel. It contains a few roughly stamped silver coins and a neatly folded piece of paper with a dozen pictographic characters neatly brushed on it.
+
+The group decides to chase after the Shoken that fled but they keep a cautious distance. The group follows their trail east towards the mountains. At one point they catch a glimpse of the Shoken encampment through the trees about a mile ahead on the hill side. The majority of the party begins to prepare camp for the night.
+
+Geran sneaks ahead to spy on the Shoken encampment. He sees three Shoken with spears on watch and another dozen lounging around the camp, preparing food, playing dice and socializing.
+
+The camp consists of five tents. Four of which are identical, large square military style canvas tents with a posts at each corner and the center, each tent large enough to accommodate several of the Shoken. The fifth tent is larger, more ornately decorated and has a banner flying out front of it. The image on the banner is an indecipherable pictograph. The tents form a semi-circle around a rock formation which seems to have a tunnel and stair that descends into the mountain side but the view is obscured by the tents.
+
+Just prior to Geran departing he sees three figures climb the stairs out of the rock formation and enter the large tent. The first two are clearly blue skinned Shoken, like the others, but wearing heavy banded armor and helmets.
+
+The third figure is entirely different. Unlike the Shoken who are short, thick and hunched over the last figure clearly appeared be a bearded human figure with a broad brimmed conical hat, long robes and a staff except that his eyes clearly had a faint smoldering red glow in the shadow beneath the brim of his hat.
+
+The group seemed undecided if they wanted to call this figure “Scary Grandpa” or “Evil Gandalf” both seemed appropriate.
+
+Geran returns to the group and after a discussion the group decides to set up an ambush on the trail, hoping to break the fight with the Shoken into multiple smaller engagements.
+
+In the morning Geran returns to the spy on the Shoken encampment and the group prepares the ambush a mile down the trail. Geran sees several Shoken cutting wood and building what appears to be a large funeral pyre. Geran returns to the party and conveys what he had seen.
+
+Shortly after Geran rejoins the party, a group of six Shoken come up the trail from the west, returning to their encampment instead of leaving it. Each pair of Shoken dragging a long poled litter with the dead Shoken from the previous day’s encounter.
+
+The group waits for the Shoken to get into the optimal position and then ambushes them. The Shoken are surprised and nearly all cut down before they can defend themselves.
+
+The group decides to drag the dead Shoken off the road and build a smokey fire to lure out the remainder of the encampment and then hides in the woods to ambush them.
+
+Nine Shoken eventually investigate the fire but they approach cautiously. One of the heavily armored Shoken Geran had seen the night before is among the group. The Shoken clearly suspect an ambush and as soon as they see the fire they close ranks and advance slowly until one of them notices a glint of light off Foster’s armor.
+
+Having lost the element of surprise the players attack. It doesn’t go well.
+
+There were lots of really bad rolls, literally a dozen of single digit rolls
+
+After several ineffective rounds of combat the players start to realize they are outmatched with such a large group in tight formation. They all start to disengage but Andy ends up surrounded and can’t move away. She fights valiantly surviving dozens of attacks but does finally go down.
+
+This isn’t an exaggeration she literally survives a dozen attacks due to low attack rolls or damage reduction
+
+Just as Andy goes down one of the Shoken drags her up from the ground by the hair with a dagger ready to cut her neck and the leader shouts out to the party in a language they don’t understand.
+
+We’ll pick up here next week
+
+### Images
+
+![](/assets/images/20240420/PXL_20240421_010032563.jpg)
+
+![](/assets/images/20240420/PXL_20240421_011823639.jpg)
+
+![](/assets/images/20240420/PXL_20240421_022259060.jpg)
+
+![](/assets/images/20240420/PXL_20240421_035934313.jpg)
+
+![](/assets/images/20240420/wizard-01.png)

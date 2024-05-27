@@ -1,0 +1,9 @@
+---
+sidebar: "characters"
+title: "Foster"
+---
+
+  * **Player**: Keith
+  * **Class**: Man-at-Arms
+
+![](/assets/images/characters/foster-20240407.png){width=300}

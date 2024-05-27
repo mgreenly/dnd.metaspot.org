@@ -1,0 +1,13 @@
+---
+sidebar: "rules"
+title: "Speed"
+---
+
+### Speed(p.190)
+  * Characters have a base movement of 30’ (6 squares)
+  * Characters wearing medium armor reduce their base speed to 20’ (4 squares)
+  * Characters wearing heavy armor reduce their base speed to 15’ (3 squares)
+
+### Exceptions
+
+  * Harriers in light or no armor gain a bonus to their base movement according to level starting with an additional 10’ (2 squares) at level 1 and going up to 40’ (8 squares) at level 20.(p.51)

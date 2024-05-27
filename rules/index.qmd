@@ -1,0 +1,10 @@
+---
+sidebar: "rules"
+title: "Rules"
+---
+
+We’re using the [Iron Heroes](https://en.wikipedia.org/wiki/Iron_Heroes) D&D 3.5 Variant rules.
+
+My plan is to stay as close to **“rules as written”** as possible but there will be a few acceptions.
+
+The pages to the left are mostly just re-statements of the existing rules for clarification.

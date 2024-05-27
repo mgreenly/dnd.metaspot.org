@@ -1,0 +1,15 @@
+---
+sidebar: "rules"
+title: "Languages"
+---
+
+In this campaign the characters will start in an entirely unknown land and will initially have limited ability to communicate with the people they encounter. There are a number of small rule changes to enable this.
+
+### Starting Languages
+All the characters will start with one language in common. Any additional languages that would be known at the start of the game (p.15) are instead considered empty slots for languages that can be learned during play.
+
+### Speak Language Skill
+Instead of this skill representing additional languages learned (p.105) it simply works like all other skills. It’s used to determine if the character is able to understand or speak in an unfamiliar languages. The DC for these checks will vary based on the complexity of the concept being communicated at the stressfulness of the situation.
+
+### Learning Languages
+Each weeks instruction by a willing and qualified tutor for a specific language lowers the DC of Speak Language checks by 5. Characters can only learn as many languages as they have unused language slots.

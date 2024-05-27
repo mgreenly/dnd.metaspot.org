@@ -1,0 +1,7 @@
+---
+sidebar: "characters"
+title: "Asmodean"
+---
+
+  * **Player**: Michael
+  * **Class**: Executioner

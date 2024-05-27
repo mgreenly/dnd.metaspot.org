@@ -1,0 +1,102 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+resources: 
+  - "assets/**/*.png"
+  - "assets/**/*.jpg"
+  - "assets/**/*.ico"
+  - "assets/**/*.css"
+  - "assets/**/*.js"
+website:
+  bread-crumbs: true
+  site-url: "https://dnd.metaspot.org"
+  title: "dnd.metaspot.org"
+  navbar:
+    search: true
+    left:
+      - text: Sessions
+        href: sessions/index.qmd
+      - text: Characters
+        href: characters/ahndahn.qmd
+      - text: Places
+        href: places/index.qmd
+      - text: NPCs
+        href: npcs/index.qmd
+      - text: Rules
+        href: rules/index.qmd
+    tools:
+      - icon: rss
+        href: /sessions/index.xml
+  sidebar:
+    - id: characters
+      title: "Characters"
+      style: "docked"
+      contents:
+        - section: "Active"
+          contents:
+           - text: "Ahndahn"
+             href: characters/ahndahn.qmd
+           - text: "Andy"
+             href: characters/andy.qmd
+           - text: "Asmodean"
+             href: characters/asmodean.qmd
+           - text: "Dar"
+             href: characters/dar.qmd
+           - text: "Foster"
+             href: characters/foster.qmd
+           - text: "Garen"
+             href: characters/garen.qmd
+           - text: "Sabin"
+             href: characters/sabin.qmd
+        - section: "Retired"
+          contents:
+            - text: "Velvet"
+              href: characters/velvet.qmd
+            - text: "Verger"
+              href: characters/verger.qmd
+    - id: places
+      title: "Places"
+      style: "docked"
+      contents:
+        - text: "home"
+          href: places/index.qmd
+    - id: npcs
+      title: "NPCs"
+      style: "docked"
+      contents:
+        - text: "home"
+          href: npcs/index.qmd
+    - id: rules
+      title: "Rules"
+      style: "docked"
+      contents:
+        - text: "Overview"
+          href: rules/index.qmd
+        - text: "Death"
+          href: rules/death.qmd
+        - text: "Experience"
+          href: rules/experience.qmd
+        - text: "Healing"
+          href: rules/healing.qmd
+        - text: "Languages"
+          href: rules/languages.qmd
+        - text: "Movement"
+          href: rules/movement.qmd
+        - text: "Speed"
+          href: rules/speed.qmd
+        - text: "Tumble"
+          href: rules/tumble.qmd
+format:
+  html:
+    css: "/assets/style/site.css"
+    theme: cosmo
+toc: false
+include-in-header:
+  - text: |
+     <meta http-equiv="cache-control" content="max-age=0" />
+     <meta http-equiv="cache-control" content="no-cache" />
+     <meta http-equiv="cache-control" content="no-store" />
+     <meta http-equiv="expires" content="0" />
+     <meta http-equiv="pragma" content="no-cache" />
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />

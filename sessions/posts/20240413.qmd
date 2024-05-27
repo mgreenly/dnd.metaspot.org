@@ -1,0 +1,36 @@
+---
+title: "2024-04-13: The Village"
+description: "The party finds themselves shipwrecked on a beach in a strange land."
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+-----
+### Session #2
+
+Four of seven players in attendance.
+
+  * [Ashley](/characters/ahndahn.qmd), [Eric](/characters/sabin.qmd), [Keith](/characters/foster.qmd) and [Quinn](/characters/andy.qmd)
+
+### Recap
+
+The party has been accepted into the village as temporary residents for the next few weeks while they wait for the next trade ship to arrive.
+
+It turns out there is a western sailor in the village. He was marooned there 40 years ago and was able to help translate for the party.
+
+In exchange for the hospitality the party decide to help deal with some malevolent oni like creatures the villagers call shoken, short savage blue skinned people with fangs and claws, that have been attacking the villager’s iron sand pits. The party easily dispatched the first group of shoken they encountered but there is likely more.
+
+### Images
+
+![](/assets/images/20240413/PXL_20240414_021023409.jpg){width=500}
+
+![](/assets/images/20240413/PXL_20240414_121945420.jpg){width=500}
+
+![](/assets/images/20240413/ship-cog.png){width=500}
+
+![](/assets/images/20240413/ship-junk-tiger.png){width=500}
+
+![](/assets/images/20240413/shoken-01.png){width=500}

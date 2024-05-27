@@ -1,0 +1,9 @@
+---
+sidebar: "characters"
+title: "Ahndahn"
+---
+
+  * **Player**: Ashley
+  * **Class**: Harrier
+
+![](/assets/images/characters/ahndahn-20240331.png){width=300}

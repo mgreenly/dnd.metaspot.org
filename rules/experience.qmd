@@ -1,0 +1,44 @@
+---
+sidebar: "rules"
+title: "Healing"
+---
+
+I’m going to untie experience points from combat and treasure.  Instead of experience points we’ll simply count sessions.  The table below indicates how many sessions you need to play to make each level.
+
+On rare occasions I’ll hand out bonus session points for the group when major milestones are completed in game.  You can expect this to be rare, happening only several times between now and level 20
+
+Mark the session count indicated below in place of experience on your character sheet and at the end of every session you attend increment that value by one.
+
+  * 5 - Ahndahn
+  * 7 - Andy
+  * 2 - Asmodeus
+  * 2 - Dar
+  * 7 - Foster
+  * 3 - Garen
+  * 7 - Sabin
+
+The table is designed so that lower levels take fewer sessions and higher levels take more, further it’s designed so that it will take almost exactly two more years to make level 20 if no sessions are missed.
+
+| Sessions | Level | Est. Date  |
+| -------- | ----- | ---------  |
+|   0      |  1    | 2024-04-06 |
+|   4      |  2    | 2024-05-11 |
+|   8      |  3    | 2024-06-08 |
+|  12      |  4    | 2024-07-06 |
+|  16      |  5    | 2024-08-03 |
+|  21      |  6    | 2024-09-07 |
+|  26      |  7    | 2024-10-12 |
+|  31      |  8    | 2024-11-16 |
+|  36      |  9    | 2024-12-21 |
+|  41      | 10    | 2025-01-25 |
+|  47      | 11    | 2025-03-08 |
+|  53      | 12    | 2025-04-19 |
+|  59      | 13    | 2025-05-31 |
+|  65      | 14    | 2025-07-12 |
+|  72      | 15    | 2025-08-30 |
+|  79      | 16    | 2025-10-18 |
+|  86      | 17    | 2025-12-06 |
+|  94      | 18    | 2026-01-31 |
+| 102      | 19    | 2026-03-28 |
+| 111      | 20    | 2026-05-30 |
+

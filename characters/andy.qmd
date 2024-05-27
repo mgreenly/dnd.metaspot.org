@@ -1,0 +1,9 @@
+---
+sidebar: "characters"
+title: "Andy"
+---
+
+  * **Player**: Quinn
+  * **Class**: Berserker
+
+![](/assets/images/characters/andy-20240331.png){width=300}

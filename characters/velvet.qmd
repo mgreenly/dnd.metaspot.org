@@ -1,0 +1,8 @@
+---
+sidebar: "characters"
+title: "Velvet"
+---
+
+  * **Player**: Amanda
+  * **Class**: Executioner
+

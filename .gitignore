@@ -1,0 +1,7 @@
+*.swp
+/.quarto
+/assets/**/*.jpg
+/assets/**/*.png
+/assets/**/*.pdf
+/_site
+

@@ -1,0 +1,34 @@
+---
+title: "2024-05-11: Voyage to Port Haven"
+description: "The group departs the island for Port Haven."
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+-----
+### Session #6
+
+Five players for D&D tonight.
+
+  * [Alex](/characters/dar.qmd), [Ashley](/characters/ahndahn.qmd), [Eric](/characters/sabin.qmd), [Keith](/characters/foster.qmd) and [Quinn](/characters/andy.qmd)
+
+# Voyage to Port Haven
+
+We had a bit of a shift in the game tonight.  The group got passage on a merchant ship to the city of Port Haven.
+
+During the voyage they were attacked by some untrustworthy crewman after flashing their coin purses around a bit to much but they arrived at Port Haven safely and got lodging. 
+
+It's still the early days and we're not in the thick of the story just yet but I'm looking forward to what's coming next.
+
+I had fun introducing the new locale and what I hope will be a few reoccurring characters.
+
+### Images
+
+![](/assets/images/20240511/436013394_435522845887298_5918218146077493087_n.jpg)
+
+![](/assets/images/20240511/436210541_435522869220629_1456875865397653566_n.jpg)
+
+![](/assets/images/20240511/436257922_435522859220630_2258449320370785410_n.jpg)

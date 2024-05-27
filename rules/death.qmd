@@ -1,0 +1,18 @@
+---
+sidebar: "rules"
+title: "Death"
+---
+
+The rules for Dying and Death’s Door on page 185 are used as written.
+
+The effect of Death is changed as follows.
+
+If you fail a save while at Death’s Door you become ineligible for experience from that nights session as if you died and continue loose 1 hit point each round until stabilized.
+
+If there’s no prospect of anyone rendering aid in a timely manner your character dies.
+
+The rules of Stabilization and Recovery on page 186 still apply as written.
+
+### Explanation
+
+The goal is to have death be uncommon in this campaign but it still needs to have a consequence to prevent reckless behavior.

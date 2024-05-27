@@ -1,0 +1,16 @@
+---
+sidebar: false
+title: "Session Recaps"
+listing:
+  contents: posts
+  feed: true
+  sort:
+   - "title desc"
+  type: default
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---

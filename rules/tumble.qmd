@@ -1,0 +1,22 @@
+---
+sidebar: "rules"
+title: "Tumble"
+---
+
+The Tumble(p.109) skill describes several possible uses; Break Fall, Dodge Foes, Tumbling Attack, Tumbling Mobility and Tumbling Move. The book is not clear on this but I’m making a ruling that only one of these can be used in a single move action.
+
+Dodge Foes and Tumbling Move are very similar and described below
+
+The Dodge Foes skill check allows characters to move at half speed without provoking an attack of opportunity while moving through a threatened area so long as they succeed on a Tumble skill check. Failure means you complete the move but provoke an Attack of Opportunity.
+
+Similarly, the Tumbling Move skill check allows characters to move at half speed without provoking an attack of opportunity while moving through a square occupied by an enemy so long as they succeed on a Tumble skill check. Failure means you stop before entering the enemies square and provoke an Attack of Opportunity.
+
+The Harrier class ability Combat Mobility allows Harriers to move their full distance and to double their dexterity bonus when making any Tumble skill check.
+
+To do this the Harrier must succeed on their Tumble check which is opposed by the Base Attack of the enemy. Each additional enemy you provoke in the move increases the difficulty of the check by +2.
+
+On success you do not provoke an Attack of Opportunity.
+
+On failure each enemy makes an Attack of Opportunity. The Harrier’s Combat Mobility(p.50) class ability gives the Harrier a +4 bonus to active defense against Attacks of Opportunity. If the Harrier also has the Mobility(p.135) feat this grants an additional +4 bonus to defense.
+
+A creature’s Base Attack s listed in the Iron Heroes Bestiary, to compute it for D&D 3.5 creatures you subtract ability modifiers, size modifiers and any equipment or magic bonuses from their Standard Attack bonus.

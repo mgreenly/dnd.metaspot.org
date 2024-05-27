@@ -1,0 +1,4 @@
+---
+sidebar: "places"
+title: "Places"
+---

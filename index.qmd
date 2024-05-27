@@ -1,0 +1,17 @@
+---
+sidebar: false
+---
+
+### Welcome!
+
+This is the internet home of an in person weekly D&D campaign.
+
+I don't know exactly where this is leading. The idea is simply to create a deeply hyperlinked chronicle of our campaign.
+
+My goal is to represent the game as it is, covering both the fiction and the mechanics. Hopefully the result is something unique and interesting.
+
+This experiment was largely inspired by the [Aaron Alston](https://en.wikipedia.org/wiki/Aaron_Allston)'s [Strike Force](https://preview.drivethrurpg.com/en/product/196663/Aaron-Allstons-Strike-Force) [Archives](https://highrockpress.us/products/strike-force-archives-pdf) which was the result of a [22 year](https://youtu.be/Emths7qOlTs) long [Champions](https://en.wikipedia.org/wiki/Champions_(role-playing_game)) campaign and a few other famous [long running D&D games](https://youtu.be/nJ-ehbVQYxI).
+
+If you're new the best place to start is with the most recent [session recap](/sessions/index.qmd).
+
+We started this campaign 04/06/24 so it's still the early days.

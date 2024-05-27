@@ -1,0 +1,9 @@
+---
+sidebar: "characters"
+title: "Sabin"
+---
+
+  * **Player**: Eric
+  * **Class**: Harrier
+
+![](/assets/images/characters/sabin-20240401.png){width=300}

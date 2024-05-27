@@ -1,0 +1,16 @@
+---
+sidebar: "rules"
+title: "Movement(p.189)"
+---
+
+  * **Move Action:** You can move your speed as a move action. You can take that move action before or after your standard action.
+  * **Double Move:** If you forgo your standard action you can take two move actions on your turn which lets you move double your speed.
+  * **Run:** You can run as a full round action. You must move in a straight line and cannot enter any square that costs more than 5’ to move through. If your speed is reduced by armor you move triple your speed. If your speed is not reduced by armor you move quadruple your speed.
+
+### Exceptions
+
+Some feats and class abilities allow you to use a Full Round Action to move before and after an attack.
+
+  * **Feat: Shot on the Run** - Mastery 4(p.142)
+  * **Feat: Mobility** - Expanded Mastery 3(p.135)
+  * **Harrier: Running Assault**(p.51)

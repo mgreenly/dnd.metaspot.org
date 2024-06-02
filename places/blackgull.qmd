@@ -1,0 +1,6 @@
+---
+sidebar: "places"
+title: "Black Gull"
+---
+
+A tavern in the west end of Scurvy Town.

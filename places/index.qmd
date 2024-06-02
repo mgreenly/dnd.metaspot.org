@@ -2,3 +2,5 @@
 sidebar: "places"
 title: "Places"
 ---
+
+Some notes on places referenced in the session notes.

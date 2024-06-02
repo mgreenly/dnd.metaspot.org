@@ -1,6 +1,4 @@
 *.swp
 /.quarto/
-/assets/**/*.jpg
-/assets/**/*.png
-/assets/**/*.pdf
+/assets/images/**/*
 /_site

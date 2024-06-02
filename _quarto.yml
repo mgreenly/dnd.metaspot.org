@@ -59,14 +59,18 @@ website:
       title: "Places"
       style: "docked"
       contents:
-        - text: "home"
-          href: places/index.qmd
+        - text: "Black Gull"
+          href: places/blackgull.qmd
+        - text: "Bloodsalt"
+          href: places/bloodsalt.qmd
+        - text: "Rusty Hook"
+          href: places/rustyhook.qmd
     - id: npcs
       title: "NPCs"
       style: "docked"
       contents:
-        - text: "home"
-          href: npcs/index.qmd
+        - text: "Nell"
+          href: npcs/nell.qmd
     - id: rules
       title: "Rules"
       style: "docked"

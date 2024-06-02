@@ -2,3 +2,5 @@
 sidebar: "npcs"
 title: "NPCs"
 ---
+
+A brief background on the characters mentioned in the session notes.

@@ -1,0 +1,81 @@
+---
+title: "2024-06-01: Oh Brother!"
+description: "Or maybe the title should have been \"Look they have boy whores. Isn't that thoughtful!\"."
+format:
+  html:
+    css: "/assets/style/site.css"
+include-in-header:
+  - text: |
+     <link rel="shortcut icon" href="/assets/images/favicon.png" />
+---
+-----
+### Session #9
+
+Five players for D&D tonight.
+
+  * [Ashley](/characters/ahndahn.qmd), [Eric](/characters/sabin.qmd), [Keith](/characters/foster.qmd) and [Quinn](/characters/andy.qmd)
+
+### Recap
+
+We pick up seven days later on the next Freeday.
+
+Gathered around the table at the Inn for the communal breakfast the group makes a plan to preemptively seek out Cutter’s brothers at the [Bloodsalt](/places/bloodsalt.qmd).
+
+After breakfast they head off to the heart of Scurvy Town.  They have no trouble locating the Bloodsalt, A large compound of debauchery providing alcohol, gambling and prostitutes.
+
+Inside they inquire with the bartender about Lane, the name of the reasonable brother accordign to Vera.  Hitch the bartender sends a runner off to let Lane know the group wants to meet.
+
+An hour later a pair of dangerous looking men enter the Bloodsalt, get drinks and take seats a few minutes later two more enter, one turns out to be Lane and he takes a seat and talks with the party. The other joins the first two men at their table.
+
+The group has a tense conversation with Lane.  They learn that Lane doesn’t hold any particular grudge about his brothers death but that he was unable to say the same for his other brothers, in particular Flick was likely not to be so understanding.  Lane suggest the party stay clear of the Scurvy Town and the Bloodsalt.
+
+The group decides to hang around and see if Flick will show up at the Bloodsalt later deciding to resolve the matter now instead of having it unexpectedly crop up later.
+
+Ahndahn tells the group she’s going to get a massage and inquires about [boy whores](/assets/images/20240601/boywhores.gif).  Before long a young man comes down to lead her up to a room.
+
+> This turned out to be a lot of fun.  Ashley, knowing she needed to make a die roll to see what information she would be able to gather, suggested using Tumble, Jump or even a Ride Check (wink, wink) because Ahndahn didn't have any ranks in social skills.  In the end we decided that if she could make a DC20 Tumble Check I’d let her make the Gather Info Check at DC10 and of course she rolls a Nat 20 (dirty 33) on the Tumble Check and then also succeeded on the DC10 Gather Info.
+
+Two hours laters Garret, the boy whore, basking in the afterglow and totally awe struck by Ahndahn’s mattress acrobatics divulges quite a lot of information about Cutter’s brothers.  She learns two additional names, Holt and Blade.  She learns that the brothers run a protection racket in Scurvy Town.  She learns there’s some doubt about them actually being brothers.
+
+While Ahndahn is getting her *massage* four men enter the tavern.  One of whom is familiar, he was one of the thugs with Lane earlier.  They take seats at a table opposite in the group.  They clearly have hostile intentions.
+
+They start a dialogue with the group.  Accusing them of having killed Cutter.  Sabin deflects but doesn’t deny.  Eventually Andy gets bored with the conversation, stands and kicks her chair aside.
+
+> Roll Initiative!
+
+Upstairs Ahdahn hears the commotion, jumps out of bed, slips into an under-robe, grabs a number of her Chakrum and runs down to the tavern.
+
+Sabin vaults over the table and Foster landing in front of the instigator then attempts to knock his opponents weapon out of his hands but fails miserably and finds he some how managed to disarm himself in the exchange.
+
+Andy finds herself quickly surrounded (again) and generally fails to connect with her great sword.  Foster moves in to aid her and delivers some monster blows cutting down the opposition.
+
+When Ahndahn makes it to the tavern she makes a double attack with her chakrum hitting one target but not the other.
+
+Both Andy and Sabin take serious injuries in the fight.
+
+The first to go down is the original instigator who turns to run when he realizes his life is in danger but Sabin throws a dagger, sticks it in his neck and the man falls face down and begins to bleed out.
+
+Now, out numbered 4 to 3 the remaining thugs are quickly dispatched.
+
+Sabin noticed some patrons running from the tavern during the fight.  Realizing there’s a significant chance reinforcements could show up they decide to retreat back to the [Rusty Hook](/places/rustyhook.qmd).
+
+When they arrive at the Rusty Hook, Jane the manager, indicates to them someone is waiting for them.  In the corner is an elegantly dressed man with black hair, mustache and goatee leaning on a fancy silver handled cane.
+
+This is where we’ll pick up next week.
+
+
+### Images
+
+![](/assets/images/20240601/PXL_20240602_003819852.jpg)
+
+![](/assets/images/20240601/PXL_20240602_004620121.jpg)
+
+![](/assets/images/20240601/PXL_20240602_012050930.jpg)
+
+![](/assets/images/20240601/PXL_20240602_015239958.jpg)
+
+![](/assets/images/20240601/PXL_20240602_024320559.jpg)
+
+![](/assets/images/20240601/PXL_20240602_030143555.jpg)
+
+![](/assets/images/20240601/PXL_20240602_030151696.jpg)

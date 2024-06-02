@@ -1,0 +1,6 @@
+---
+sidebar: "places"
+title: "Rusty Hook"
+---
+
+The inn that the party is staying at.  It's in the market district near the south gate of Old Town.

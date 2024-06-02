@@ -1,0 +1,6 @@
+---
+sidebar: "npcs"
+title: "Nell"
+---
+
+A street urchin the party met the day they landed on the island.  She offered to be there guide.  They initially refused but soon after Sabin employed her to help spread the word of his performances.

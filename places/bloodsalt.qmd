@@ -1,0 +1,6 @@
+---
+sidebar: "places"
+title: "Bloodsalt"
+---
+
+A large compound of debauchery providing alcohol, gambling and prostitutes at the heart of Scurvy Town.
